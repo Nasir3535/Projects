@@ -1,2 +1,2 @@
 # Projects
-This is my mini Project repository
+This is my Mini Project repository
