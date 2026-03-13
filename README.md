@@ -23,6 +23,7 @@
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Nasir3535/LeetCode-Solution/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -57,10 +58,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
@@ -74,4 +77,12 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Math
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nasir3535/LeetCode-Solution/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
